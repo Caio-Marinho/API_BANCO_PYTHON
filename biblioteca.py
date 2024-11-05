@@ -1,6 +1,3 @@
-from idlelib.iomenu import encoding
-from xml.etree.ElementTree import indent
-
 import requests
 
 def via_cep(cep):
